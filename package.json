@@ -1,0 +1,14 @@
+{
+  "name": "php-ecom",
+  "version": "1.0.0",
+  "description": "a php ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "author": "Tushar Arora",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.49.7"
+  }
+}
